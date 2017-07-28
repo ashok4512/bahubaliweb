@@ -21,11 +21,11 @@
 <distributionManagement>
   <snapshotRepository>
      <id>bahubalisnap</id>
-     <url>http://35.184.44.49:8081/nexus/content/repositories/bahubalisnap/</url>
+     <url>http://35.184.151.148:8081/nexus/content/repositories/bahubalisnap/</url>
   </snapshotRepository>
   <repository>
    <id>bahubalirelease</id>
-   <url>http://35.184.44.49:8081/nexus/content/repositories/bahubalirelease/</url>
+   <url>http://35.184.151.148:8081/nexus/content/repositories/bahubalirelease/</url>
   </repository>
  </distributionManagement>
 </project>
